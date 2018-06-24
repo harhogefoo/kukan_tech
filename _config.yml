@@ -18,8 +18,8 @@ email: kukan.technology[@]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   株式会社空間技術の公式ホームページです。
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/kukan_tech" # the subpath of your site, e.g. /blog
+url: "https://harhogefoo.github.io/kukan_tech/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  harhogefoo
 
