@@ -1,5 +1,14 @@
 # Kukan Tech Github Pages
-## Run
+
+## Install
+
+```bash
+gem install bundler:1.16.1
+bundle install
 ```
-$ bundle exec jekyll serve
+
+## Run
+
+```bash
+bundle exec jekyll serve
 ```
