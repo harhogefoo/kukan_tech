@@ -7,7 +7,7 @@ gem install bundler:1.16.1
 bundle install
 ```
 
-## Run
+## Debug
 
 ```bash
 bundle exec jekyll serve
