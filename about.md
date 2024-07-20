@@ -9,7 +9,7 @@ permalink: /about/
 | 資本金 | 5万円 |
 | 代表者 | 代表取締役 篠原 雅貴 |
 | 従業員数 | 1名 |
-| 事業内容 | ソフトウェア開発業務受託に関わる業務<br>屋外飲食店営業（[白波珈琲](https://www.instagram.com/siranamicoffee/){:target="_blank"}）<br>音楽プロダクションに関わる業務 |
+| 事業内容 | ソフトウェア開発業務受託に関わる業務<br>農作物・苗の生産と販売<br>屋外飲食店営業（[白波珈琲](https://www.instagram.com/siranamicoffee/){:target="_blank"}）<br>音楽プロダクションに関わる業務 |
 | 本社 | 〒104-0061 東京都中央区銀座１丁目２２－１１銀座大竹ビジデンス２Ｆ |
 | 主要取引銀行 | 住信SBIネット銀行 |
 

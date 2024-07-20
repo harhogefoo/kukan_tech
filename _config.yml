@@ -17,7 +17,7 @@ timezone: Asia/Tokyo
 lang: "ja-JP"
 title: 株式会社空間技術
 description: >- # this means to ignore newlines until "baseurl:"
-  株式会社空間技術の公式ホームページです。
+  株式会社空間技術 公式HP
 
 baseurl: "/kukan_tech" # the subpath of your site, e.g. /blog
 url: "https://harhogefoo.github.io/kukan_tech/" # the base hostname & protocol for your site, e.g. http://example.com
